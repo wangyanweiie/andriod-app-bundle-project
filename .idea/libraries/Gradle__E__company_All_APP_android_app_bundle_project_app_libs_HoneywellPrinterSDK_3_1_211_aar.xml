@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: E./company/All_APP/android-app-bundle-project/app/libs/HoneywellPrinterSDK-3.1.211.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a7fa709682c0d0f35de850a700be13/jetified-HoneywellPrinterSDK-3.1.211/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a7fa709682c0d0f35de850a700be13/jetified-HoneywellPrinterSDK-3.1.211/jars/libs/HoneywellPrinterSDK.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a7fa709682c0d0f35de850a700be13/jetified-HoneywellPrinterSDK-3.1.211/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a7fa709682c0d0f35de850a700be13/jetified-HoneywellPrinterSDK-3.1.211/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

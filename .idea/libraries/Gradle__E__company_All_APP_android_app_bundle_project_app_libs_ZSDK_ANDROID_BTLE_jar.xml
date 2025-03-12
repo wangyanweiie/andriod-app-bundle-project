@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: E./company/All_APP/android-app-bundle-project/app/libs/ZSDK_ANDROID_BTLE.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ZSDK_ANDROID_BTLE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\company\\All_APP\\x-mart_az\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ldltr-v17\\values-ldltr-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lemon\\.gradle\\caches\\transforms-2\\files-2.1\\6a1fa3f73d7fa5333b7fff28f4ae1258\\jetified-uniapp-v8-release\\res\\values-ldltr-v17\\values-ldltr-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

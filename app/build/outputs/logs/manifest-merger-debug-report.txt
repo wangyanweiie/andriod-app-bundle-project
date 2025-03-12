@@ -1,0 +1,674 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+MERGED from [android-gif-drawable-release@1.2.23.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\94e12ef12ff7f4950da711d9c4b7d862\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:2:1-9:12
+MERGED from [breakpad-build-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\1fd6b33c627f446c65df23abbdc40716\jetified-breakpad-build-release\AndroidManifest.xml:2:1-9:12
+MERGED from [HoneywellPrinterSDK-3.1.211.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\22a7fa709682c0d0f35de850a700be13\jetified-HoneywellPrinterSDK-3.1.211\AndroidManifest.xml:2:1-12:12
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:2:1-285:12
+MERGED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:2:1-17:12
+MERGED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:20:1-37:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\563542d576f9860371ac8313c9751418\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0cb9ff486f5edb59977e253831b932c8\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\647215dad2189bf7ccc8bedb88622434\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\939730d5a02951a4e6900dbf39441da5\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\8eb429c297537d6ea02c3f7824ce56bd\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\657353bc2695a6bc7aeb599757307ce2\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db77e7cff6acb3d7357b87ab9a99f11d\jetified-animated-gif-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\83438be9453ab292e3ea5eda822b3eb2\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\26c27a93496e808418c6ce0af4a5e09c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\7dc97d5beadbae66ede9b95e497a48ab\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\3c5e939b0e6b29bdf460a7fe7fc8149e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\ad61398286308039656eb09d36755285\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b5af945d8e3dfd4bc1bad3eccfe91b4b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\18765b93ee4c46f41bb1a4f0caf56779\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\4535ee444820ae18ff97d0ebf60d51c6\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\3291651d58b009a1c2860d547f248169\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\47185ad723d232e6208c03e6fdcb34a4\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\666ad058b1d9c3d7c4bdf80afbc3e64c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\a9578e6bb35b0664a235fe136bea7086\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\fb5e65a69b576ac546080993fe26d407\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9a6fa3c553e02b3a07c8a8565588eb54\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f2d63b2c28ee1d548ef27f10c2385caa\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\7b69e6173655717e69f5c7f6f1302d3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\8fe2a3deec1ef3dd659aa5f55d73edd7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\84abe344207c34d4a56c6167bf93e6d4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f76237f51a0f7e63bcb3c74d5b185ef8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\033c795406e41888727686d5fd780672\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9f97f489f2a5c174c803b63b463795b0\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9c1469f5a2ad2b4764c3c283cf3fcf11\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\722883bbeda4a23af2c332d7342ff3d3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9bda4bd38cbbd129d40467c328b01419\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\5dbc57b58024a8f25b5db3778841ef05\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\36dcb862f7bd88dade6a96bc3b9a35c6\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\227916b3f0008a165e996ac0bce20467\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\96d0ad977091c6484e2db42674538c87\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9a82a1a22af6402c2242c9ee80e8919f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\dade9b59ee5981570bbd8ef7443af33a\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\27ffe024b65d36df19e13f551b6b146c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\512febfd0468b29d551bd267612a464f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\fa8064a58b489fff0e9a44df48b800d2\jetified-soloader-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\bca912a80ff29bb8703707cae020720c\jetified-animated-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\278e0efa1fabef3bcef73b54604b41af\jetified-animated-drawable-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\11bd96a8b62b2a119da2682c40ded440\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\5cdd5ca0fe682e62058d89be09f528ed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\61fc0e9d61646d02c49f7a81b23e5e50\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f2b2229427b85921c64c1159e31d979c\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\bcb447fd86638652f5e6e6a25bdfbc88\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\e6bb6ad383ec4efdc4aeab5fd243a797\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0af597dffe5b2bb5b5180441c54500de\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f531b7f569e494fc001b374f1da86709\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db47f7f2327f3e4536222c103da2e8cd\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\66955e6f7583f756824964c86b21fea7\jetified-middleware-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\e206341bdd5d1a2fbe8954a5157f5686\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\1a006b670ed75ec4bc4a243238193379\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\becc393ff89891cd719ad47038ff7ce3\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:7:5-8:47
+	tools:ignore
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:7:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:10:5-11:47
+	tools:ignore
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:12:22-73
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:13:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:14:5-78
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:16:5-79
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:20:22-66
+uses-feature#android.hardware.camera
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:21:5-59
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:21:19-57
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:22:5-23:47
+	tools:ignore
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:22:22-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:25:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:26:5-27:47
+	tools:ignore
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:31:22-70
+uses-permission#android.permission.INTERNET
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:32:5-67
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:15:5-67
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:32:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:35:5-85
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:35:22-82
+uses-feature#android.hardware.bluetooth
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:36:5-86
+	android:required
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:36:61-84
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:36:19-60
+application
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:38:5-84:19
+MERGED from [HoneywellPrinterSDK-3.1.211.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\22a7fa709682c0d0f35de850a700be13\jetified-HoneywellPrinterSDK-3.1.211\AndroidManifest.xml:9:5-10:19
+MERGED from [HoneywellPrinterSDK-3.1.211.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\22a7fa709682c0d0f35de850a700be13\jetified-HoneywellPrinterSDK-3.1.211\AndroidManifest.xml:9:5-10:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:167:5-283:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:167:5-283:19
+MERGED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
+MERGED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\563542d576f9860371ac8313c9751418\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\563542d576f9860371ac8313c9751418\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\83438be9453ab292e3ea5eda822b3eb2\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\83438be9453ab292e3ea5eda822b3eb2\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b5af945d8e3dfd4bc1bad3eccfe91b4b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b5af945d8e3dfd4bc1bad3eccfe91b4b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db47f7f2327f3e4536222c103da2e8cd\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db47f7f2327f3e4536222c103da2e8cd\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		ADDED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:29:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:44:9-35
+	android:label
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:42:9-41
+	android:allowClearUserData
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:40:9-42
+	android:largeHeap
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:43:9-33
+	android:icon
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:41:9-38
+	android:allowBackup
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:39:9-35
+	android:usesCleartextTraffic
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:170:9-44
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:168:9-63
+activity#io.dcloud.PandoraEntry
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:45:9-58:20
+	android:screenOrientation
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:52:13-45
+	android:label
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:48:13-45
+	android:launchMode
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:49:13-44
+	android:hardwareAccelerated
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:50:13-47
+	android:windowSoftInputMode
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:53:13-55
+	android:configChanges
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:47:13-83
+	android:theme
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:46:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:54:13-57:29
+action#android.intent.action.MAIN
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:56:27-74
+activity#io.dcloud.PandoraEntryActivity
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:59:9-74:20
+	android:screenOrientation
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:65:13-45
+	android:launchMode
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:61:13-44
+	android:hardwareAccelerated
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:63:13-47
+	android:windowSoftInputMode
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:67:13-55
+	android:permission
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:64:13-89
+	android:configChanges
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:62:13-144
+	android:theme
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:60:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:h56131bcf
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:68:13-73:29
+category#android.intent.category.DEFAULT
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:69:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:70:27-75
+action#android.intent.action.VIEW
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:71:25-66
+data
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:72:17-52
+	android:scheme
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:72:23-49
+meta-data#dcloud_appkey
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:75:9-77:64
+	android:value
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:77:13-61
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:76:13-41
+activity#com.wwzh.az.print.HoneywellPrinter
+ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:80:9-82:45
+	android:screenOrientation
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:81:13-49
+	tools:ignore
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:82:13-42
+	android:name
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:80:19-68
+uses-sdk
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+MERGED from [android-gif-drawable-release@1.2.23.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\94e12ef12ff7f4950da711d9c4b7d862\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
+MERGED from [android-gif-drawable-release@1.2.23.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\94e12ef12ff7f4950da711d9c4b7d862\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
+MERGED from [breakpad-build-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\1fd6b33c627f446c65df23abbdc40716\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
+MERGED from [breakpad-build-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\1fd6b33c627f446c65df23abbdc40716\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
+MERGED from [HoneywellPrinterSDK-3.1.211.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\22a7fa709682c0d0f35de850a700be13\jetified-HoneywellPrinterSDK-3.1.211\AndroidManifest.xml:5:5-7:41
+MERGED from [HoneywellPrinterSDK-3.1.211.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\22a7fa709682c0d0f35de850a700be13\jetified-HoneywellPrinterSDK-3.1.211\AndroidManifest.xml:5:5-7:41
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
+MERGED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
+MERGED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
+MERGED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
+MERGED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
+MERGED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\563542d576f9860371ac8313c9751418\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\563542d576f9860371ac8313c9751418\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0cb9ff486f5edb59977e253831b932c8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0cb9ff486f5edb59977e253831b932c8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\647215dad2189bf7ccc8bedb88622434\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\647215dad2189bf7ccc8bedb88622434\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\939730d5a02951a4e6900dbf39441da5\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\939730d5a02951a4e6900dbf39441da5\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\8eb429c297537d6ea02c3f7824ce56bd\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\8eb429c297537d6ea02c3f7824ce56bd\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\657353bc2695a6bc7aeb599757307ce2\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\657353bc2695a6bc7aeb599757307ce2\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db77e7cff6acb3d7357b87ab9a99f11d\jetified-animated-gif-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db77e7cff6acb3d7357b87ab9a99f11d\jetified-animated-gif-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\83438be9453ab292e3ea5eda822b3eb2\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\83438be9453ab292e3ea5eda822b3eb2\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\26c27a93496e808418c6ce0af4a5e09c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\26c27a93496e808418c6ce0af4a5e09c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\7dc97d5beadbae66ede9b95e497a48ab\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\7dc97d5beadbae66ede9b95e497a48ab\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\3c5e939b0e6b29bdf460a7fe7fc8149e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\3c5e939b0e6b29bdf460a7fe7fc8149e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\ad61398286308039656eb09d36755285\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\ad61398286308039656eb09d36755285\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b5af945d8e3dfd4bc1bad3eccfe91b4b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b5af945d8e3dfd4bc1bad3eccfe91b4b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\18765b93ee4c46f41bb1a4f0caf56779\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\18765b93ee4c46f41bb1a4f0caf56779\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\4535ee444820ae18ff97d0ebf60d51c6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\4535ee444820ae18ff97d0ebf60d51c6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\3291651d58b009a1c2860d547f248169\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\3291651d58b009a1c2860d547f248169\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\47185ad723d232e6208c03e6fdcb34a4\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\47185ad723d232e6208c03e6fdcb34a4\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\666ad058b1d9c3d7c4bdf80afbc3e64c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\666ad058b1d9c3d7c4bdf80afbc3e64c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\a9578e6bb35b0664a235fe136bea7086\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\a9578e6bb35b0664a235fe136bea7086\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\fb5e65a69b576ac546080993fe26d407\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\fb5e65a69b576ac546080993fe26d407\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9a6fa3c553e02b3a07c8a8565588eb54\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9a6fa3c553e02b3a07c8a8565588eb54\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f2d63b2c28ee1d548ef27f10c2385caa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f2d63b2c28ee1d548ef27f10c2385caa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\7b69e6173655717e69f5c7f6f1302d3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\7b69e6173655717e69f5c7f6f1302d3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\8fe2a3deec1ef3dd659aa5f55d73edd7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\8fe2a3deec1ef3dd659aa5f55d73edd7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\84abe344207c34d4a56c6167bf93e6d4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\84abe344207c34d4a56c6167bf93e6d4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f76237f51a0f7e63bcb3c74d5b185ef8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f76237f51a0f7e63bcb3c74d5b185ef8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\033c795406e41888727686d5fd780672\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\033c795406e41888727686d5fd780672\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9f97f489f2a5c174c803b63b463795b0\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9f97f489f2a5c174c803b63b463795b0\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9c1469f5a2ad2b4764c3c283cf3fcf11\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9c1469f5a2ad2b4764c3c283cf3fcf11\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\722883bbeda4a23af2c332d7342ff3d3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\722883bbeda4a23af2c332d7342ff3d3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9bda4bd38cbbd129d40467c328b01419\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9bda4bd38cbbd129d40467c328b01419\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\5dbc57b58024a8f25b5db3778841ef05\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\5dbc57b58024a8f25b5db3778841ef05\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\36dcb862f7bd88dade6a96bc3b9a35c6\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\36dcb862f7bd88dade6a96bc3b9a35c6\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\227916b3f0008a165e996ac0bce20467\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\227916b3f0008a165e996ac0bce20467\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\96d0ad977091c6484e2db42674538c87\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\96d0ad977091c6484e2db42674538c87\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9a82a1a22af6402c2242c9ee80e8919f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\9a82a1a22af6402c2242c9ee80e8919f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\dade9b59ee5981570bbd8ef7443af33a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\dade9b59ee5981570bbd8ef7443af33a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\27ffe024b65d36df19e13f551b6b146c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\27ffe024b65d36df19e13f551b6b146c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\512febfd0468b29d551bd267612a464f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\512febfd0468b29d551bd267612a464f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\fa8064a58b489fff0e9a44df48b800d2\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\fa8064a58b489fff0e9a44df48b800d2\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\bca912a80ff29bb8703707cae020720c\jetified-animated-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\bca912a80ff29bb8703707cae020720c\jetified-animated-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\278e0efa1fabef3bcef73b54604b41af\jetified-animated-drawable-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\278e0efa1fabef3bcef73b54604b41af\jetified-animated-drawable-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\11bd96a8b62b2a119da2682c40ded440\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\11bd96a8b62b2a119da2682c40ded440\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\5cdd5ca0fe682e62058d89be09f528ed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\5cdd5ca0fe682e62058d89be09f528ed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\61fc0e9d61646d02c49f7a81b23e5e50\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\61fc0e9d61646d02c49f7a81b23e5e50\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f2b2229427b85921c64c1159e31d979c\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f2b2229427b85921c64c1159e31d979c\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\bcb447fd86638652f5e6e6a25bdfbc88\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\bcb447fd86638652f5e6e6a25bdfbc88\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\e6bb6ad383ec4efdc4aeab5fd243a797\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\e6bb6ad383ec4efdc4aeab5fd243a797\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0af597dffe5b2bb5b5180441c54500de\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0af597dffe5b2bb5b5180441c54500de\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f531b7f569e494fc001b374f1da86709\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\f531b7f569e494fc001b374f1da86709\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db47f7f2327f3e4536222c103da2e8cd\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\db47f7f2327f3e4536222c103da2e8cd\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\66955e6f7583f756824964c86b21fea7\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\66955e6f7583f756824964c86b21fea7\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\e206341bdd5d1a2fbe8954a5157f5686\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\e206341bdd5d1a2fbe8954a5157f5686\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\1a006b670ed75ec4bc4a243238193379\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\1a006b670ed75ec4bc4a243238193379\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\becc393ff89891cd719ad47038ff7ce3\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\becc393ff89891cd719ad47038ff7ce3\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:11:9-60
+	android:targetSdkVersion
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+		INJECTED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
+	android:largeScreens
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:10:9-37
+	android:resizeable
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:8:9-34
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:14:22-78
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:22:5-91
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:22:22-88
+uses-permission#com.vivo.notification.permission.BADGE_ICON
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:24:22-80
+queries
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:26:5-35:15
+intent#action:name:android.intent.action.MAIN
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:27:9-29:18
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:30:9-34:18
+activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:179:9-185:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:184:13-47
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:183:13-38
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:182:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:181:13-63
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:185:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:180:13-79
+activity#io.dcloud.WebAppActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:186:9-195:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:191:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:192:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:189:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:195:13-55
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:188:13-144
+	android:icon
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:190:13-51
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:194:13-47
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:187:13-52
+activity#io.dcloud.ProcessMediator
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:196:9-200:75
+	android:excludeFromRecents
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:198:13-46
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:199:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:200:13-72
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:197:13-53
+activity#io.dcloud.WebviewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:201:9-207:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:204:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:206:13-52
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:203:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:205:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:202:13-53
+receiver#io.dcloud.common.adapter.io.DownloadReceiver
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:209:9-217:20
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:211:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:210:13-72
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:212:13-216:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:213:17-78
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:213:25-75
+activity#com.dmcbig.mediapicker.PickerActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:220:9-225:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:225:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:223:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:222:13-59
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:224:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:221:13-65
+activity#com.dmcbig.mediapicker.PreviewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:226:9-231:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:231:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:229:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:228:13-59
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:230:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:227:13-66
+provider#io.dcloud.common.util.DCloud_FileProvider
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:234:9-242:20
+	android:grantUriPermissions
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:238:13-47
+	android:authorities
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:236:13-67
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:237:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:235:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:239:13-241:64
+	android:resource
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:241:17-61
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:240:17-67
+meta-data#android.max_aspect
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:249:9-251:35
+	android:value
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:251:13-32
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:250:13-46
+activity#io.dcloud.feature.gallery.imageedit.IMGEditActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:253:9-258:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:258:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:256:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:255:13-74
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:257:13-50
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:254:13-79
+activity#io.dcloud.sdk.activity.WebViewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:261:9-266:55
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:264:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:266:13-52
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:263:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:265:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:262:13-66
+service#io.dcloud.sdk.base.service.DownloadService
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:268:9-271:72
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:270:13-37
+	android:permission
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:271:13-69
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:269:13-70
+provider#io.dcloud.sdk.base.service.provider.DCloudAdFileProvider
+ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:273:9-281:20
+	android:grantUriPermissions
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:277:13-47
+	android:authorities
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:275:13-67
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:276:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\0512c47029f1243acd4f54e55bfebbea\jetified-lib.5plus.base-release\AndroidManifest.xml:274:13-84
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\company\All_APP\x-mart_az\app\src\main\AndroidManifest.xml:2:1-86:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
+uses-permission#freemme.permission.msa
+ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
+	android:name
+		ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\429db36a864d028bcd507c681a71c3fb\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [uniapp-v8-release.aar] C:\Users\Lemon\.gradle\caches\transforms-2\files-2.1\6a1fa3f73d7fa5333b7fff28f4ae1258\jetified-uniapp-v8-release\AndroidManifest.xml:31:13-65
