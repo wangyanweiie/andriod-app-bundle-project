@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\company\\All_APP\\x-mart_az\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-gu\\values-gu.xml",
+            "outputFile": "E:\\company\\All_APP\\android-app-bundle-project\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Lemon\\.gradle\\caches\\transforms-2\\files-2.1\\b234a824af7fd98a5c54fc0522824a91\\core-1.3.1\\res\\values-gu\\values-gu.xml",

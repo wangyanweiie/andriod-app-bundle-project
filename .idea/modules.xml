@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/x-mart_az.iml" filepath="$PROJECT_DIR$/.idea/modules/x-mart_az.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/x-mart_az.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/x-mart_az.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-app-bundle-project.iml" filepath="$PROJECT_DIR$/.idea/modules/android-app-bundle-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-app-bundle-project.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-app-bundle-project.app.iml" />
     </modules>
   </component>
 </project>

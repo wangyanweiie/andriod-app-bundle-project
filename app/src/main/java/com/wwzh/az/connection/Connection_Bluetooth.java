@@ -97,6 +97,7 @@ public class Connection_Bluetooth extends ConnectionBase {
         // Setup Connection
         m_Address = targetDevice;
         m_IsSynchronous = !isAsync;
+
         BluetoothManager bluetoothManager;
         BluetoothAdapter adapter = BluetoothAdapter.getDefaultAdapter();
 
@@ -109,12 +110,14 @@ public class Connection_Bluetooth extends ConnectionBase {
         }
 
 
-        //validate if its a MAC address
+        // validate if its a MAC address
         Pattern pattern = Pattern.compile("[0-9A-Fa-f]{12}");
         Matcher matcher = pattern.matcher(targetDevice);
+
         if (matcher.matches()) {
             targetDevice = formatBluetoothAddress(targetDevice);
         }
+
         if (!BluetoothAdapter.checkBluetoothAddress(targetDevice)) {
             throw new Exception("Invalid Bluetooth Address format");
         }
@@ -212,6 +215,7 @@ public class Connection_Bluetooth extends ConnectionBase {
                 m_StreamRead = new DataInputStream(m_BtClient.getInputStream());
                 m_StreamWrite = new DataOutputStream(m_BtClient.getOutputStream());
             }
+
             m_IsOpen = (m_StreamRead != null) && (m_StreamWrite != null);
             m_IsActive = m_IsOpen;
         }
@@ -247,12 +251,14 @@ public class Connection_Bluetooth extends ConnectionBase {
                         } catch (Exception ignored) {
                             Log.e(TAG,"reading stream close error");
                         }
+
                         try {
                             if (m_StreamWrite != null)
                                 m_StreamWrite.close();
                         } catch (Exception ignored) {
                             Log.e(TAG,"writing stream close error");
                         }
+
                         try {
                             if (m_BtClient != null)
                                 m_BtClient.close();
@@ -270,6 +276,7 @@ public class Connection_Bluetooth extends ConnectionBase {
                         m_StreamRead = null;
                         m_StreamWrite = null;
                         m_BtClient = null;
+
                         if (!m_Reconnecting)
                             m_BtListener = null;
 
@@ -288,6 +295,7 @@ public class Connection_Bluetooth extends ConnectionBase {
             } else {
                 // Decrement Timeout
                 timeout -= 100;
+
                 if (timeout > 0) {
                     try {
                         Thread.sleep(100);
@@ -297,6 +305,7 @@ public class Connection_Bluetooth extends ConnectionBase {
                 }
             }
         }
+
         while (timeout > 0);
     }
 
@@ -330,6 +339,7 @@ public class Connection_Bluetooth extends ConnectionBase {
             m_BtClient = m_BtListener.accept();
             m_StreamRead = new DataInputStream(m_BtClient.getInputStream());
             m_StreamWrite = new DataOutputStream(m_BtClient.getOutputStream());
+
             hasConnection = true;
         } catch (Exception ignored) {
             Log.e(TAG,"datastream exception");
@@ -400,8 +410,10 @@ public class Connection_Bluetooth extends ConnectionBase {
     private String formatBluetoothAddress(String bluetoothAddr) {
         //Format MAC address string
         StringBuilder formattedBTAddress = new StringBuilder(bluetoothAddr);
+
         for (int bluetoothAddrPosition = 2; bluetoothAddrPosition <= formattedBTAddress.length() - 2; bluetoothAddrPosition += 3)
             formattedBTAddress.insert(bluetoothAddrPosition, ":");
+
         return formattedBTAddress.toString();
     }
 }
